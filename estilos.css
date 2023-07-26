@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 132, 128);
+    font-family: 'Bitter', serif;
+}
+h1{
+    
+  font-family: 'Bitter', serif;
+  }
+  h2{
+   
+    font-family: 'Bitter', serif;
+  }
+  h3{
+   
+    font-family: 'Bitter', serif;
+  }
+
+header{
+  background-color: rgb(231, 155, 155);
+  width: 100%;
+
+  }
+
+  nav h2{
+    font-size: 15px;
+    color: #000000;
+    font-family: 'Bitter', serif;
+
+
+    }
+
+footer{
+  width: 100%;
+  height: 80%;
+ background-color: rgb(255, 156, 156);
+
+
+}
+
